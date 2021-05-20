@@ -3,6 +3,7 @@ package code;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+// 接雨水
 public class Solution42 {
 
     // 方法1，暴力法
