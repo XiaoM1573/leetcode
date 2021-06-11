@@ -41,6 +41,4 @@ public class Solution198 {
         }
         return dp[len - 1];
     }
-
-
 }
